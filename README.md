@@ -1,3 +1,4 @@
 # HyFormer-OCT-segmentation
 
-# Code will be available upon acceptance of the paper.
+# We provide the most direct codes you may need here.
+# The codes of HyFormer architecture and cam loss.
